@@ -16,3 +16,32 @@
 
 9.* What is the difference between Commit & Push?
 
+10.* What is the difference bet'n Push and Pull?
+
+11. Can you explain Git architecture?
+
+12.* What is the diff. bet'n Centralized and Distributed VCS.
+
+13. Have you ever created Remote repositories in Git? How?
+
+14. What happens if I delete .git folder?
+
+15. How do you configure username, email and editor first time 
+    in Git?
+
+16. Where Git stores configuration details?
+
+17.* What is the advantage of STAGE in Git?
+
+18. Git log options related questions
+	--author
+	--grep
+	--oneline
+	--since/until
+	-n2
+
+19. What is SHA-1? How Git uses this?
+
+20.* I have a file modified in my Working directory. How do you 
+    show the content diff?
+
